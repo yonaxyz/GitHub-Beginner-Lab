@@ -37,9 +37,9 @@
             this.lblStudent.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.lblStudent.Location = new System.Drawing.Point(118, 110);
             this.lblStudent.Name = "lblStudent";
-            this.lblStudent.Size = new System.Drawing.Size(386, 25);
+            this.lblStudent.Size = new System.Drawing.Size(339, 25);
             this.lblStudent.TabIndex = 0;
-            this.lblStudent.Text = "Student Contact - Leona Andrea Panaligan";
+            this.lblStudent.Text = "Student Profile — GitHub Beginner Lab";
             // 
             // Form1
             // 
